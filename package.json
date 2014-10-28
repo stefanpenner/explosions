@@ -1,0 +1,17 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esnext": "^0.12.0"
+  },
+  "devDependencies": {
+    "esnext": "^0.12.0"
+  },
+  "scripts": {
+    "test": "esnext index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
